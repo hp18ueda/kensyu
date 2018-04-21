@@ -1,0 +1,24 @@
+Microsoft Windows [Version 10.0.16299.371]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+c:\vc7>arr_ptr
+arr              = 0019FE9C
+&arr             = 0019FE9C
+&arr[0]          = 0019FE9C
+arr+1            = 0019FE9D
+&arr+1           = 0019FE9F
+&arr[0]+1        = 0019FE9D
+sizeof(arr)      = 3
+sizeof(&arr)     = 3
+sizeof(&arr[0])  = 4
+ptr              = 00408044
+&ptr             = 0019FEA0
+&ptr[0]          = 00408044
+ptr+1            = 00408045
+&ptr+1           = 0019FEA4
+&ptr[0]+1        = 00408045
+sizeof(ptr)      = 4
+sizeof(&ptr)     = 4
+sizeof(&ptr[0])  = 4
+
+c:\vc7>
