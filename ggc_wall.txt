@@ -1,9 +1,0 @@
-
-nitobe@stretch:~$ gcc rensyu_18.c
-nitobe@stretch:~$ gcc -Wall rensyu_18.c
-rensyu_18.c: In function ‘main’:
-rensyu_18.c:25:10: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[64]’ [-Wformat=]
-  scanf("%s", &in);
-          ^
-nitobe@stretch:~$
-
